@@ -1,0 +1,35 @@
+.box{
+height: 250px;
+width: 100%;
+background-color: aquamarine;
+}
+.box h1,p{
+text-align: center;
+margin-bottom: 5px;
+}
+#selectbox{
+width: 15%;
+height: 10%;
+margin-left: 40%;
+margin-top: 2%;
+}
+#btn{
+margin-left: 100px;
+height: 30px;
+}
+#image-box{
+height: 200px;
+width: 300px;
+margin: auto;
+margin-top: 20px;
+}
+#nextbtn{
+margin-top: 50px;
+margin-left: 45%;
+height: 30px;
+width: 10%;
+}
+.imgfeature{
+height: 100%;
+width: 100%;
+}
